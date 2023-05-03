@@ -7,35 +7,35 @@
 
 3- Seleccionar en la pagina de resultados, la primera opcion
 
-4- Dar clic el botón "Sign up", ubicado en la parte superior derecha de la página
+4- Dar clic el botón **Sign up**, ubicado en la parte superior derecha de la página
 
-5- La pagina despliega una etiqueta "Enter your email*" y un campo para ingresar email
+5- La pagina despliega una etiqueta **Enter your email** y un campo para ingresar email
 
 6- Deberas contar  con un correo funcional, que no se haya regisrado anteriormente y que tengas acceso a el 
 
 7- Ingresas el correo anteriormente mencionado al campo de ingresar email
 
-8- Dar clic al boton "continue" ubicado a la derecha del campo ingresar email
+8- Dar clic al boton **continue** ubicado a la derecha del campo ingresar email
 
-9-La página despliega una etiqueta "Create Password" y un campo para ingresar password
+9-La página despliega una etiqueta **Create Password** y un campo para ingresar password
 
 10- ingresar una contraseña, la cueal recordemos y la cual cumpla con los siguiente parametros: Que tenga al menos 15 caracteres O al menos 8 caracteres, incluidos un número y una letra minúscula.
 
-11- dar clic al botón "Continue" ubicado a la derecha del campo contraseña
+11- dar clic al botón **Continue** ubicado a la derecha del campo contraseña
 
-12- La página desplegara una etiqueta "Enter a username" y un campo para ingresar el nombre de usuario que se usuara como identificación en la cuenta, ingresamos un nombre de usuario que contegan similitud con nuestro datos 
+12- La página desplegara una etiqueta **Enter a username** y un campo para ingresar el nombre de usuario que se usuara como identificación en la cuenta, ingresamos un nombre de usuario que contegan similitud con nuestro datos 
 
-13-Dar clic al botón "Continue" ubicado en la parte derecha del campo ingresa nombre de usuario
+13-Dar clic al botón **Continue** ubicado en la parte derecha del campo ingresa nombre de usuario
 
 14- La página despliega una etiqueta "Would you like to receive product updates and announcements via email?
 Type "y" for yes or "n" for no", y un campo para ingresar la opción que preferimos
 
-15- ingresamos la opcion "y" o "n" en el campo para ingresar la opción que preferimos
+15- ingresamos la opcion **y** o **n** en el campo para ingresar la opción que preferimos
 
-16- Dar clic en el botón "Continue" ubicado en el lado derecho del campo para ingresar la opción que preferimos
+16- Dar clic en el botón **Continue** ubicado en el lado derecho del campo para ingresar la opción que preferimos
 
 17- La página despliega una etiqueta "Verify your account" y un botón "Verificar"
-	damos clic al botón "verificar"
+	damos clic al botón **verificar**
 
 18- La página despliega un cuadro de imagen divido en 6 con las intrucciones "Elija un cuadrado que muestre dos objetos idénticos." Seleccionamos las requeridas segun las intrucciones
 
@@ -43,10 +43,10 @@ Type "y" for yes or "n" for no", y un campo para ingresar la opción que preferi
 Damos clic al botón "Create account"
 
 20- La página se actualiza y muestra una ventana emergente con lo siguiente:
-	etiqueta de "You're almost done!"
-	etiqueta de "We sent a launch code to example@hotmail.com"
-	etiqueta de "Enter code"
-	8 campos para un unico numero 
+	- etiqueta de "You're almost done!"
+	- etiqueta de "We sent a launch code to example@hotmail.com"
+	- etiqueta de "Enter code"
+	- 8 campos para un unico numero 
  
  Ingtesamos a nuestro correo, revisamos la bandeja de entrada y copiamos los 8 digitos
 
@@ -66,10 +66,10 @@ Damos clic al botón "Create account"
 
 27-  La página se actualizar mostrando un formulario mostrando lo siguiente:
 	
-	Etiqueta de "Setup authenticator app"
-	un codigo qr
-	Etiqueta de "Verify the code from the app"
-	campo para ingesar el código
+	- Etiqueta de "Setup authenticator app"
+	- un codigo qr
+	- Etiqueta de "Verify the code from the app"
+	- campo para ingesar el código
 
 28- Tener un dispositivo movil propio y en el entrar a la tienda de aplicaciones
 
