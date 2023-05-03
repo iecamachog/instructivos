@@ -47,10 +47,10 @@ Type "y" for yes or "n" for no", y un campo para ingresar la opción que preferi
 Damos clic al botón "Create account".
 
 20. La página se actualizará y muestra una ventana emergente con lo siguiente:
-    - Etiqueta de "You're almost done!"
-    - Etiqueta de "We sent a launch code to example@hotmail.com"
-    - Etiqueta de "Enter code"
-    - 8 campos para un único número 
+    1. Etiqueta de "You're almost done!"
+    1. Etiqueta de "We sent a launch code to example@hotmail.com"
+    1. Etiqueta de "Enter code"
+    1. 8 campos para un único número 
  
  Ingresamos a nuestro correo, revisamos la bandeja de entrada y copiamos los 8 dígitos.
 
@@ -72,10 +72,10 @@ Damos clic al botón "Create account".
 26. Deslizamos para ubicar el botón "Two-factor authentication (2FA)" dar clic. 
 
 27.  La página se actualizará mostrando un formulario mostrando lo siguiente:
-     - Etiqueta de "Setup authenticator app"
-     - Un código qr
-     - Etiqueta de "Verify the code from the app"
-     - Campo para ingresar el código
+     1. Etiqueta de "Setup authenticator app"
+     1. Un código qr
+     1. Etiqueta de "Verify the code from the app"
+     1. Campo para ingresar el código
 
 28. Tener un dispositivo móvil propio y en el entrar a la tienda de aplicaciones.
 
