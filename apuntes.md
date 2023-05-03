@@ -1,0 +1,21 @@
+# Apuntes de dia 03/05/2023
+
+*Instalacion de maquna virtual, en mi caso ya estaba instalado virtualbox para su alojamiento
+
+*En mi caso descomprimir la carpeta "Ubuntu_2004_v1", donde se ejecuta el archivo ubuntu_2004 y el tipo arhivo vitual box
+
+*El mediop de comunicacion principal es Discord, para esto se usara el caal creado por Gustavo
+
+* Usamos github para la parte de versionamiento y repertorios, donde nos registramos y activamos el registro por 2 atuticaciones
+
+* Usamos la maquina virtual para usar descargar, modificar y subir modificaciones a traves de comando, de igual manera lo utilice para la tarea de subir los archivos
+
+## Comando para subir archivo y guardar cambios
+Los comando utilizados fueron:
+
+	-mkdir "carpeta donde se almacenara la copia"
+	-cd "carpeta"
+	-git clone https://github.com/iecamachog/prueba.git 
+	-git add "file"
+	-git commit -m "Segundo commit, archivo thow-factor"
+	-git push origin main
