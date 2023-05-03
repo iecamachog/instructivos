@@ -1,4 +1,4 @@
-# Instrucciones para ingresar a un servidor en Discord
+# Instrucciones para Crear cuenta Discord e ingresar a un servidor en Discord
 
 ## Crear cuenta en Discord
 
@@ -20,10 +20,10 @@
 
 1. Tener un correo electrónico no registrado, actualmente activo y con acceso a el.
 
-1. En ultima página después de dar clic al botón **Login** (https://discord.com/login), nos mostrará un formulario con los siguientes:  
-    1. Mesaje de "¡Hola de nuevo!".
-    1. Mesaje de "¡Nos alegramos mucho de volver a verte!".
-    1. Etiqueta de "Correo Electrónico o numero de telefono*".
+1. En la página después de dar clic al botón **Login** (https://discord.com/login), nos mostrará un formulario con los siguientes:  
+    1. Mensaje de "¡Hola de nuevo!".
+    1. Mensaje de "¡Nos alegramos mucho de volver a verte!".
+    1. Etiqueta de "Correo Electrónico o número de telefono*".
     1. Campo para introducir texto.
     1. Etiqueta de contaseña "Contraseña*".
     1. Campo para introducir texto.
@@ -39,7 +39,7 @@
     1. Etiqueta de correo electrónico.
     1. Campo para ingresar correo electrónico.
     1. Etiqueta de Nombre de usuario.
-    1. campo para ingresar nombre de usuario.
+    1. Campo para ingresar nombre de usuario.
     1. Etiqueta de Contraseña.
     1. Campo para ingresar una nueva contraseña.
     1. Etiqueta de fecha de nacimiento.
