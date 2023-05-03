@@ -15,7 +15,7 @@
 
 5. La página despliega una etiqueta **Enter your email** y un campo para ingresar email.
 
-6. Deberás contar  con un correo funcional, que no se haya regisrado anteriormente y que tengas acceso a el. 
+6. Deberás contar con un correo funcional, que no se haya regisrado anteriormente y que tengas acceso a el. 
 
 7. Ingresar el correo anteriormente mencionado al campo de **ingresar email**.
 
@@ -23,27 +23,27 @@
 
 9. La página despliega una etiqueta **Create Password** y un campo para ingresar password.
 
-10. Ingresar una contraseña, la cual recordemos y que cumpla con los siguiente parametros: Que tenga al menos 15 carácteres O al menos 8 carácteres, incluidos un número y una letra minúscula.
+10. Ingresar una contraseña, la cual recordemos y que cumpla con los siguiente parámetros: Que tenga al menos 15 carácteres O al menos 8 carácteres, incluidos un número y una letra minúscula.
 
-11. Dar clic al botòn **Continue** ubicado a la derecha del campo contraseña.
+11. Dar clic al botón **Continue** ubicado a la derecha del campo contraseña.
 
-12. La página desplegara una etiqueta **Enter a username** y un campo para ingresar el nombre de usuario que se usuará como identificación en la cuenta, ingresamos un nombre de usuario que contegan similitud con nuestro datos.
+12. La página desplegará una etiqueta **Enter a username** y un campo para ingresar el nombre de usuario que se usará como identificación en la cuenta, ingresamos un nombre de usuario que contega similitud con nuestro datos.
 
 13. Dar clic al botón **Continue** ubicado en la parte derecha del campo ingresar nombre de usuario.
 
 14. La página despliegará una etiqueta "Would you like to receive product updates and announcements via email?
 Type "y" for yes or "n" for no", y un campo para ingresar la opción que preferimos.
 
-15. Ingresamos la opcion **y** o **n**  que preferimos.
+15. Ingresamos la opción **y** o **n**  que preferimos.
 
 16. Dar clic en el botón **Continue** ubicado en el lado derecho del campo para ingresar la opción que preferimos.
 
-17. La página despliegará una etiqueta "Verify your account" y un botón "Verificar"
+17. La página desplegará una etiqueta "Verify your account" y un botón "Verificar"
 	damos clic al botón **verificar**.
 
-18. La página despliegará un cuadro de imágen dividido en 6 con las intrucciones "Elija un cuadrado que muestre dos objetos idénticos." Seleccionamos las requeridas segun las intrucciones.
+18. La página desplegará un cuadro de imágen dividido en 6 con las intrucciones "Elija un cuadrado que muestre dos objetos idénticos." Seleccionamos las requeridas segun las intrucciones.
 
-19. La pàgina sustituye el cuadro de imágen con una etiqueta de simbolo ok, también habilita el botón de "Create account"
+19. La pàgina sustituye el cuadro de imágen con una etiqueta de símbolo ok, también habilita el botón de "Create account"
 Damos clic al botón "Create account".
 
 20. La página se actualizará y muestra una ventana emergente con lo siguiente:
@@ -54,7 +54,7 @@ Damos clic al botón "Create account".
  
  Ingresamos a nuestro correo, revisamos la bandeja de entrada y copiamos los 8 dígitos.
 
-21. Ingresamos cada dígito en cada campo númerico único.
+21. Ingresamos cada dígito en cada campo numérico único.
 
 ## Habilitar Two-factor authentication
 
@@ -81,22 +81,22 @@ Damos clic al botón "Create account".
 
 28. Buscar "Google Authenticator", descargar e instalar.
 
-29. Abrir la aplicaciòn e ingresar una cuenta de google.
+29. Abrir la aplicación e ingresar una cuenta de google.
 
-30. ubicar en la parte inferior izquierda el botón con el simbolo **+**.
+30. ubicar en la parte inferior izquierda el botón con el símbolo **+**.
 
-31. Dar clic y la app mostrará la opciones **Escanear un código QR** e **Introducir clave de configuracion**.
+31. Dar clic y la app mostrará las opciones **Escanear un código QR** e **Introducir clave de configuracion**.
 
 32. Da clic en **Escanear un código QR**.
 
-33. Acercamos la camara a la pantalla donde esta abierta el formulario **Setup authenticator app**.
+33. Acercamos la cámara a la pantalla donde está abierta el formulario **Setup authenticator app**.
 
-34. La página se actualizará y muestrará una lista de archivo y en la parte inferior izquierda botón de "Download", dar clic en botón "Download".
+34. La página se actualizará y mostrará una lista de archivo y en la parte inferior izquierda botón de "Download", dar clic en botón "Download".
 
 35. Ubicar botón "i have saved recovery codes" y dar clic.
 
-36. La página se actualizara mostrando una animación y un botón **Done**. 
-37. Dar clic en el botòn **Done**.
+36. La página se actualizará mostrando una animación y un botón **Done**. 
+37. Dar clic en el botón **Done**.
 
 ## Gererar Token
 
@@ -106,11 +106,11 @@ Damos clic al botón "Create account".
 4. Seleccionar la opción **Developer Sttings**.
 5. Seleccionar la opción **Personal access tokens**.
 6. Dar clic en **Token classic**.
-7. Dar clcic en **Generate new token**.
+7. Dar clic en **Generate new token**.
 8. Seleccionar **Generate new token (classic)**.
 9. Ingresar la clave que nos muestra la aplicaciòn móvil.
 10. Ingresar en el campo **Note**.
 11. Seleccionar tiempo para que expire en la opción **Expiration**.
-12. Seleccionar todo los campos.
+12. Seleccionar todos los campos.
 13. Dar clic en el botón **Generate Token**.
 
