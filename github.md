@@ -7,34 +7,34 @@
 
 1. Abrir el navegador de tu preferencia
 
-2. Ingresar en el buscador la pagina oficial de GitHub, "https://github.com"
+2. Ingresar en el buscador la pàgina oficial de GitHub, "https://github.com"
 
-3. Seleccionar en la pagina de resultados, la primera opcion
+3. Seleccionar en la pàgina de resultados, la primera opciòn
 
-4. Dar clic el botón **Sign up**, ubicado en la parte superior derecha de la página
+4. Dar clic el botòn **Sign up**, ubicado en la parte superior derecha de la página
 
-5. La pagina despliega una etiqueta **Enter your email** y un campo para ingresar email
+5. La pàgina despliega una etiqueta **Enter your email** y un campo para ingresar email
 
-6. Deberas contar  con un correo funcional, que no se haya regisrado anteriormente y que tengas acceso a el 
+6. Deberàs contar  con un correo funcional, que no se haya regisrado anteriormente y que tengas acceso a el. 
 
-7. Ingresas el correo anteriormente mencionado al campo de ingresar email
+7. Ingresar el correo anteriormente mencionado al campo de ingresar email
 
 8. Dar clic al boton **continue** ubicado a la derecha del campo ingresar email
 
 9. La página despliega una etiqueta **Create Password** y un campo para ingresar password
 
-10. ingresar una contraseña, la cueal recordemos y la cual cumpla con los siguiente parametros: Que tenga al menos 15 caracteres O al menos 8 caracteres, incluidos un número y una letra minúscula.
+10. Ingresar una contraseña, la cueal recordemos y la cual cumpla con los siguiente parametros: Que tenga al menos 15 caràcteres O al menos 8 caràcteres, incluidos un nùmero y una letra minúscula.
 
-11. dar clic al botón **Continue** ubicado a la derecha del campo contraseña
+11. Dar clic al botòn **Continue** ubicado a la derecha del campo contraseña
 
-12. La página desplegara una etiqueta **Enter a username** y un campo para ingresar el nombre de usuario que se usuara como identificación en la cuenta, ingresamos un nombre de usuario que contegan similitud con nuestro datos 
+12. La página desplegara una etiqueta **Enter a username** y un campo para ingresar el nombre de usuario que se usuarà como identificaciòn en la cuenta, ingresamos un nombre de usuario que contegan similitud con nuestro datos 
 
-13. Dar clic al botón **Continue** ubicado en la parte derecha del campo ingresa nombre de usuario
+13. Dar clic al botón **Continue** ubicado en la parte derecha del campo ingresar nombre de usuario
 
 14. La página despliega una etiqueta "Would you like to receive product updates and announcements via email?
 Type "y" for yes or "n" for no", y un campo para ingresar la opción que preferimos
 
-15. ingresamos la opcion **y** o **n** en el campo para ingresar la opción que preferimos
+15. Ingresamos la opcion **y** o **n**  que preferimos
 
 16. Dar clic en el botón **Continue** ubicado en el lado derecho del campo para ingresar la opción que preferimos
 
@@ -43,18 +43,18 @@ Type "y" for yes or "n" for no", y un campo para ingresar la opción que preferi
 
 18. La página despliega un cuadro de imagen divido en 6 con las intrucciones "Elija un cuadrado que muestre dos objetos idénticos." Seleccionamos las requeridas segun las intrucciones
 
-19. La pagina sustituye el cuadro de imagen con una etiqueta de simbolo ok, tambien habilita el botón de "Create account"
+19. La pàgina sustituye el cuadro de imàgen con una etiqueta de simbolo ok, tambièn habilita el botón de "Create account"
 Damos clic al botón "Create account"
 
 20. La página se actualiza y muestra una ventana emergente con lo siguiente:
-    - etiqueta de "You're almost done!"
-    - etiqueta de "We sent a launch code to example@hotmail.com"
-    - etiqueta de "Enter code"
+    - Etiqueta de "You're almost done!"
+    - Etiqueta de "We sent a launch code to example@hotmail.com"
+    - Etiqueta de "Enter code"
     - 8 campos para un unico numero 
  
- Ingtesamos a nuestro correo, revisamos la bandeja de entrada y copiamos los 8 digitos
+ Ingresamos a nuestro correo, revisamos la bandeja de entrada y copiamos los 8 dìgitos
 
-21. Ingresamos cada digito en cada campo numerico unico
+21. Ingresamos cada dìgito en cada campo nùmerico ùnico
 
 ## Habilitar Two-factor authentication
 
@@ -72,16 +72,16 @@ Damos clic al botón "Create account"
 26. deslizamos para ubicar el botón "Two-factor authentication (2FA)" dar clic 
 
 27.  La página se actualizar mostrando un formulario mostrando lo siguiente:
-     -Etiqueta de "Setup authenticator app"
-     - un codigo qr
+     - Etiqueta de "Setup authenticator app"
+     - Un codigo qr
      - Etiqueta de "Verify the code from the app"
-     - campo para ingesar el código
+     - Campo para ingesar el código
 
 28. Tener un dispositivo movil propio y en el entrar a la tienda de aplicaciones
 
 28. Buscar "Google Authenticator", descargar e instalar
 
-29. Abrir la aplicacion e ingresar una cuenta de google
+29. Abrir la aplicaciòn e ingresar una cuenta de google
 
 30. ubicar en la parte inferior izquierda el botón con el simbolo "+"
 
@@ -95,4 +95,22 @@ Damos clic al botón "Create account"
 
 35. ubicar boton "i have saved recovery codes" y dar clic
 
-36. La página se actualizara mostrando una animación y un botón "Done" 
+36. La página se actualizara mostrando una animación y un botón **Done** 
+37. Dar clic en el botòn **Done**
+
+## Gererar Token
+
+1. Dsr clic al icono de perfil
+2. Dar clic a la opciòn **Settings**
+3. Deslizar la pnatalla hacia abajo
+4. Seleccionar la opciòn **Developer Sttings**
+5. Seleccionar la opciòn **Personal access tokens**
+6. Dar clic en **Token classic**
+7. Dar clcic en **Generate new token**
+8. Seleccionar **Generate new token (classic)**
+9. Ingresar la clave que nos muestra la aplicaciòn movil
+10. Ingresar en el campo **Note**
+11. Seleccionar tiempo para que expire en la opciòn **Expiration**
+12. Seleccionar todo los campos
+13. Dar clic en el botòn **Generate Token**
+
