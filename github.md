@@ -58,6 +58,9 @@ Damos clic al botón "Create account"
 
 ## Habilitar Two-factor authentication
 
+![two aunthe](https://user-images.githubusercontent.com/132395694/235985117-7ce32f54-47ad-4ecc-8a78-605eb2ac9240.png)
+
+
 22. La página se actualiza a una nueva ventena mostrando los datos del usuario registrado
 
 23. seleccionamos el icono de la parte derecha superior y damos clic
@@ -69,11 +72,10 @@ Damos clic al botón "Create account"
 26. deslizamos para ubicar el botón "Two-factor authentication (2FA)" dar clic 
 
 27.  La página se actualizar mostrando un formulario mostrando lo siguiente:
-	
-    - Etiqueta de "Setup authenticator app"
-    - un codigo qr
-    - Etiqueta de "Verify the code from the app"
-    - campo para ingesar el código
+     -Etiqueta de "Setup authenticator app"
+     - un codigo qr
+     - Etiqueta de "Verify the code from the app"
+     - campo para ingesar el código
 
 28. Tener un dispositivo movil propio y en el entrar a la tienda de aplicaciones
 
